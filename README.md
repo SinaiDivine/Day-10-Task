@@ -1,6 +1,27 @@
-# So, what does the f do in this python program?
+# 🎯 Mini Project (Day 10 Task) – Age Category Assignment
 
-# It tells Python:
+## 📌 Description
+This project is a Python script (`age_category.py`) that assigns an **age category** based on user input.  
+The program asks the user to enter their **name** and **age**, then determines which category they belong to.  
+
+Age categories:
+- **Child** → 0–12  
+- **Teen** → 13–19  
+- **Adult** → 20–59  
+- **Senior** → 60+  
+## 📂 Files
+- `age_category.py` → The main Python script  
+- `README.md` → Documentation file (this file)
+## 🚀 How to Run
+1. Open your terminal.  
+2. Run the script with Python:
+
+```bash
+python3 age_category.py
+
+## So, what does the f do in this python program?
+
+## It tells Python:
 “This string may contain variables or expressions inside { } that should be evaluated and replaced with their values.”
 
 ✅ In short:
