@@ -18,8 +18,8 @@ Combines the text "Hello ... you are ... years old." with the variable values.
 
 # Final message becomes:
 For example, it will display:
-👉 Hello Sinai, you are 16 years old.
-👉 Without the f, it would just print {name} and {age} as plain text, not their values.
+Hello Sinai, you are 16 years old.
+ Without the f, it would just print {name} and {age} as plain text, not their values.
 
 ✅ So the purpose is:
 To mix variables with normal text and make the output look like a real sentence instead of separate pieces.
