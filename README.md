@@ -1,11 +1,11 @@
 # So, what does the f do in this python program?
 
-It tells Python:
-👉 “This string may contain variables or expressions inside { } that should be evaluated and replaced with their values.”
+# It tells Python:
+“This string may contain variables or expressions inside { } that should be evaluated and replaced with their values.”
 
 ✅ In short:
 The f makes a string dynamic, allowing variables and expressions inside { } to be replaced with real values.
-👉 Here’s what happens:
+# here’s what happens:
 Variables store information
 name holds the word "Sinai".
 age holds the number 16 (or any number you provide).
